@@ -18,7 +18,7 @@ export default function App() {
       <Box title="sometitle">Default div only allows basic div stuff</Box>
 
       <Box as="blockquote" cite="me">
-        A blockquote, where a "cite" prop is allowed.
+        A blockquote, where the "cite" prop is allowed.
       </Box>
 
       {/* Example of a custom component */}
