@@ -1,5 +1,7 @@
 # Typescript Polymorphic Examples
 
+[View on CodeSandbox](https://codesandbox.io/s/polymorphic-ts-examples-yrtgp9)
+
 Example of a typescript project with polymorphic components using an `as` prop.
 
 Meaning, you can do something like this:
