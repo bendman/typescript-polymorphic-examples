@@ -5,5 +5,5 @@ interface CustomProps {
 }
 
 export const CustomComponent = (props: CustomProps) => (
-  <React.Fragment>Hello {props.name}!</React.Fragment>
+  <div>Hello {props.name}!</div>
 );

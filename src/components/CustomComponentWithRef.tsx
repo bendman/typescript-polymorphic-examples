@@ -20,5 +20,5 @@ export const CustomComponentWithRef = React.forwardRef(function CustomComponent(
     })
   );
 
-  return <React.Fragment>Hello {props.name}!</React.Fragment>;
+  return <div>Hello {props.name}!</div>;
 });
