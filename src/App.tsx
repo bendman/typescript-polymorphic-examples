@@ -46,6 +46,7 @@ export default function App() {
         Call custom ref (alert)
       </button>
       <ForwardedBoxWithExtendedProps
+        ref={customRef2}
         as={CustomComponentWithRef}
         name="World"
         wrap
