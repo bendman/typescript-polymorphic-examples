@@ -1,7 +1,7 @@
 {
   "name": "polymorphic-ts-examples",
   "version": "1.0.0",
-  "description": "",
+  "description": "Solutions for strongly-typed polymorphic (as={X}) components in typescript and react.",
   "keywords": [],
   "main": "src/index.tsx",
   "dependencies": {
